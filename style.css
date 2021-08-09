@@ -21,6 +21,7 @@ body {
   direction: rtl;
   background: url("https://i.top4top.io/p_2045rilzj1.png");
   background-size: 100%;
+  overflow-x: hidden;
 }
 
 header {
