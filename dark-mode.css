@@ -1,0 +1,40 @@
+header nav {
+    background: #333;
+}
+
+nav ul li {
+    color: #fdc101;
+}
+
+body {
+    background-color: #333;
+}
+
+section {
+    background: #33333382;
+}
+
+article {
+    background: #333333e0;
+}
+
+article img[width="300"] {filter: invert(130);opacity: 0.5;border-radius: 10px;}
+
+.parag {
+    color: #eeeeee;
+}
+
+ol li {
+    color: #ffcd29;
+}
+
+.paypal {
+    background: #ffcd29;
+}
+
+h2, h4 {
+    background: #ffcd29;
+}
+.whats2 {
+    background: #424242;
+}
